@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mahme
+ *
+ */
+module javaCollectionsFramwork {
+}
